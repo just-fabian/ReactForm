@@ -1,0 +1,61 @@
+{
+  "leads": [
+    {
+      "id": 2,
+      "fullname": "Fabián ROmero",
+      "email": "fabian.romero.9385580@usalesiana.edu.bo",
+      "age": "44",
+      "ranking": "68",
+      "county": "bo",
+      "obs": "asd",
+      "active": true
+    },
+    {
+      "fullname": "wfas",
+      "email": "fabian.romero.9385580@usalesiana.edu.bo",
+      "age": "",
+      "ranking": "50",
+      "obs": "sd",
+      "active": true,
+      "id": 3
+    },
+    {
+      "fullname": "wfas",
+      "email": "fabian.romero.9385580@usalesiana.edu.bo",
+      "age": "",
+      "ranking": "50",
+      "obs": "sd",
+      "active": true,
+      "id": 4
+    },
+    {
+      "fullname": "wfas",
+      "email": "fabian.romero.9385580@usalesiana.edu.bo",
+      "age": "",
+      "ranking": "50",
+      "obs": "sd",
+      "active": true,
+      "id": 5
+    },
+    {
+      "fullname": "wfas",
+      "email": "fabian.romero.9385580@usalesiana.edu.bo",
+      "age": "",
+      "ranking": "50",
+      "county": "",
+      "obs": "sd",
+      "active": false,
+      "id": 6
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "age": "",
+      "ranking": "50",
+      "county": "",
+      "obs": "",
+      "active": true,
+      "id": 7
+    }
+  ]
+}
